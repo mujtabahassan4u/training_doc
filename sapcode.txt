@@ -1,1 +1,0 @@
-SAP code to configure SAP GUI from user end machine.
